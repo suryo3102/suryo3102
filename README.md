@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 # 💫 About Me:
 Hey there, I'm Suryo 👋<br><br>🎓 3rd Year Electronics & Communication Engineering student at Netaji Subhash Engineering College<br>💻 Passionate about Full-Stack Web Development, DSA, and building creative projects<br>🚀 Currently sharpening my skills in React, JavaScript, Python, and C++<br>🎸 Guitarist | 🎤 Music Lover | 🌌 Tech Enthusiast
 
